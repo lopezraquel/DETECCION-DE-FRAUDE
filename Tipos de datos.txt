@@ -1,0 +1,10 @@
+TIPOS DE DATOS  -- Python | SQL
+t_id: int32
+origen: string | varchar(20) -----> (medir tamaño máximo)
+destino: object | varchar(20)
+cuantia: float 
+fraude: bool | dummy
+fecha: datetime(64) |datetime
+tipo: object | varchar(10)
+balance_prev: float | decimal (dígitos enteros, 2) 
+balance_post: float | decimal
