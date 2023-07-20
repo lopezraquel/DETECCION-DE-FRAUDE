@@ -1,0 +1,16 @@
+TIPOS DE DATOS  -- Python | SQL
+t_id: int32
+tipo: object | varchar(20)
+tiempo: datetime(64) | datetime
+monto: float | decimal (10,2)
+cl_origen: string | varchar(20)
+cl_destino: string | varchar(20)
+es_fraude: int | bit(1)
+mensaje_alarma: string | varchar(20)
+balance_prev_or: float | decimal (15, 2) 
+balance_post_or: float | decimal (15, 2) 
+balance_prev_des: float | decimal (15, 2) 
+balance_post_des: float | decimal (15, 2) 
+
+Nota: string y object en pandas es el mismo tipo de dato
+
