@@ -4,3 +4,10 @@ Si quieres echarle un vistazo a mi proyecto de fin de máster de Pontia, simplem
 En la carpeta "Definitivo" encontrarás todo tipo de archivos ejecutables necesarios para llevar a cabo el proyecto, pero no son relevantes para el cliente. Aún así, no es conveniente eliminarlos. Todo trabajo realizado es bien visto ;)
 
 Espero que lo disfrutes.
+
+# Este es un encabezado de nivel 1
+## Este es un encabezado de nivel 2
+### Este es un encabezado de nivel 3
+#### Este es un encabezado de nivel 4
+##### Este es un encabezado de nivel 5
+###### Este es un encabezado de nivel 6
