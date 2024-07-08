@@ -1,9 +1,9 @@
 ## ¡Bienvenid@! 👋
 
-Este proyecto se llevó a cabo con el objetivo de automatizar transacciones fraudulentas. Para ello, se utilizaró un modelo de clasificación binaria (árbol decisión) y una red neuronal de cinco capas.
+Este proyecto se llevó a cabo con el objetivo de automatizar transacciones fraudulentas. Para ello, se utilizó un modelo de clasificación binaria (árbol decisión) y una red neuronal de cinco capas.
 
-Si quieres echarle un vistazo simplemente tienes que entrar en la carpeta "Pontia Bank S.L", donde encontrarás de forma ordenada, todos los archivos ejecutables para ver el trabajo realizado.
-En la carpeta "Definitivo" encontrarás todo tipo de archivos ejecutables necesarios para llevar a cabo el proyecto, pero no son relevantes para el consumidor.
+ > Si quieres echarle un vistazo simplemente tienes que entrar en la carpeta "Pontia Bank S.L", donde encontrarás de forma ordenada, todos los archivos ejecutables para ver el trabajo realizado.
+ > En la carpeta "Definitivo" encontrarás todo tipo de archivos ejecutables necesarios para llevar a cabo el proyecto, pero no son relevantes para el consumidor.
 
 # ¡Disfruta y no te olvides de dejar una 🌟estrella🌟 si te gusta el proyecto!
 
